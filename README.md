@@ -35,15 +35,17 @@ Hi, I Priyanka Pandya 👋
 
 ---
 
+
 ### 🚀 Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [🎬 MatchMood AI](https://github.com/priyanka-pandya/MatchMood-AI) | AI video gallery — generate videos using Google Veo 3.1 | React, TypeScript, Google GenAI |
 | [🏦 Bank Analytics Dashboard](https://github.com/priyanka-pandya/bank-analysis) | Customer segmentation + credit risk ML | Python, Streamlit |
 | [🏠 House Price Predictor](https://github.com/priyanka-pandya/house-price-predictor) | Linear Regression + Random Forest, ~85% R² | Python, Tkinter, MySQL |
-| [💳 Loan Approval System](https://github.com/priyanka-pandya/loan-approval) | End-to-end classification pipeline | Python, Scikit-Learn |
+| [💳 Loan Approval System](https://github.com/priyanka-pandya/loan-approval) | End-to-end classification pipeline with confidence scoring | Python, Scikit-Learn |
 | [🛍️ Product Review Platform](https://github.com/priyanka-pandya/product-review) | Full-stack CRUD web app | PHP, MySQL, HTML/CSS |
-
+    
 ---
 
 ### 📄 Research *Springer LNCS · Under Review*
